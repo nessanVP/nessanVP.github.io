@@ -172,13 +172,11 @@ input {
 }
 
 .comment {
-  display:block;
-  color:#12051d;
-  padding-right:10%;
-  padding-left:10%;
-  padding-top:10%;
-  padding-bottom:auto;
-  font-size:2.5em;
+  display: block;
+  color: #12051d;
+  padding: 5%;
+  padding-bottom: auto;
+  font-size: 2em;
   
 }
 
