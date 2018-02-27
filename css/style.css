@@ -9,23 +9,23 @@
   z-index:1;
 }
 
-#linkedIn {
+#linkedIn i:hover {
   color:rgb(0,127,178);
 }
 
-#twitter {
+#twitter i:hover {
   color:rgb(0,172,237);
 }
 
-#gitHub {
+#gitHub i:hover {
   color:rgb(102,43,129);
 }
 
-#freecodeCamp{
+#freecodeCamp i:hover {
   color:darkgreen
 }
 
-#youTube {
+#youTube i:hover {
   color:rgb(187, 0, 0);
 }
 a{
